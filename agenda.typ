@@ -1,18 +1,21 @@
 #set document(title: [EPSD colloquium series])
 #show title: set align(center)
 #set text(size: 10pt)
+#show link: underline
 
 #title()
 
 = Agenda
-
+Names link to people's homepages.
 #table(columns: (auto, auto, auto, auto, 1fr),
       stroke: (x, y) => {
       if y == 0 {(top: 0.08em, bottom: 0.05em)}
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
   table.header[Date][Speaker][Institution][For][Title],
-   [02/18/2026], [Jim Hone], [Columbia\ University], [CFN], [Advances in Synthesis and Quantum Applications of 2D Materials],
+   [02/18/2026], [#link("https://www.me.co
+lumbia.edu/faculty
+/james-hone")[Jim Hone]], [Columbia\ University], [CFN], [Advances in Synthesis and Quantum Applications of 2D Materials],
   
    [04/01/2026], [Sanjaya\ Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
   
@@ -20,7 +23,7 @@
   
    [06/03/2026], [Abhay Pasupathy], [Columbia\ University], [PM], [Confirmed],
 
-   [07/01/2026], [Niaomi Ginzberg], [], [NSLS2], [invited],
+   [07/01/2026], [Niaomi Ginzberg], [], [NSLS2], [invited. Debating date. N.B. might need another host. E.g. Andrei Flueascu],
 
 
    [9/23/2026], [Nathalie P de Leon
