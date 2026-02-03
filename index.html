@@ -19,11 +19,11 @@
   </div>
 
   <!-- The PDF: place document.pdf in same repo -->
-  <iframe id="viewer" src="document.pdf" width="100%" height="800"></iframe>
+  <iframe id="viewer" src="agenda.pdf" width="100%" height="800"></iframe>
 
   <script>
-  // SHA-256 hash of password "s3cret" (example)
-  const allowedHash = "1ec1c26b50d5d3c58d9583181af8076655fe00756bf7285940ba3670f99fcba0";
+  // SHA-256 hash of password 
+  const allowedHash = "60d41c37cf3e1add2f90c27bd5ef60c6c1aa3edd207b841a2caaf3532e853fd0";
 
   async function sha256hex(str) {
     const bytes = new TextEncoder().encode(str);
