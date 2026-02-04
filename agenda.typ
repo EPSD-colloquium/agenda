@@ -1,9 +1,7 @@
-#set document(title: [EPSD colloquium series])
-#show title: set align(center)
-#set text(size: 10pt)
-#show link: underline
+#import "template.typ": template
 
-#title()
+#show: template
+
 
 = Agenda
 Names link to people's homepages.
@@ -13,21 +11,18 @@ Names link to people's homepages.
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
   table.header[Date][Speaker][Institution][For][Title],
-   [02/18/2026], [#link("https://www.me.co
-lumbia.edu/faculty
-/james-hone")[Jim Hone]], [Columbia\ University], [CFN], [Advances in Synthesis and Quantum Applications of 2D Materials],
+   [02/18/2026], [Jim Hone], [Columbia\ University], [CFN], [Advances in Synthesis and Quantum Applications of 2D Materials],
   
-   [04/01/2026], [Sanjaya\ Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
+   [04/01/2026], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
   
-   [05/06/2026], [Kelsey B. Hatzell], [Princeton\ University], [IS], [Date confirmed.],
+   [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed.],
   
    [06/03/2026], [Abhay Pasupathy], [Columbia\ University], [PM], [Confirmed],
 
    [07/01/2026], [Niaomi Ginzberg], [], [NSLS2], [invited. Debating date. N.B. might need another host. E.g. Andrei Flueascu],
 
 
-   [9/23/2026], [Nathalie P de Leon
-], [Princeton\ University], [C2QA], [Invited near confirmed],
+   [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Invited near confirmed],
 )
 
 #set table.hline(stroke: 0.6pt)
@@ -57,8 +52,7 @@ lumbia.edu/faculty
    [Karen Chen-Wiegart], [BNL/SBU], [NSLS-II], [],
    [Valentina Bisogni], [BNL/SBU], [NSLS-II], [],
 
-   [Naiomi Ginzberg], [Stanford University], [NSLS-II], [Andrei F recommends],
-   [Leora Dresselhaus-Marais], [Stanford University], [NSLS-II], [Andrei F recommends],
+   [Leora Dresselhaus-Marais], [Stanford University], [NSLS-II], [Andrei F recommends. Did she already give a talk?],
    [Linda Young], [Argonne Lab], [NSLS-II], [Attosecond, Mark suggestion],
    [Toni Taylor], [Los Alamos National Lab], [NSLS-II], [Attosecond Mark suggestion],
    [Matteo Mitrano], [Harvard University], [NSLS-II], [Ultrafast methods Mark suggestion],
@@ -68,10 +62,10 @@ lumbia.edu/faculty
    [Oleg Shpyrko], [UC San Diego], [NSLS-II], [Mateirals and coherent methods Mark suggestion],
 
 
-   [Junko Yano],	[Berkley Lab], [?],	[Bioenergetics Artificial Photosyntesis, From Vivian], 
-   [Karyn Rogers],	[RPI],	[?],	[Geomicrobiology, Astrobiology, Geochemistry, From Vivian, ],
-   [Alexis R. Abramson], [Dartmouth], [?], [Building energy efficiency; data analytics applied to energy applications; nanoscale energy transport; thermal, electrical and thermoelectric properties of nanostructures, nanocomposites and biological materials; etc Vivan],
- [Surita Bhatia], [SBU], [?], [structure and rheology of soft materials and complex fluids, including colloidal dispersions and polymeric hydrogels. Vivan],
+   [Junko Yano],	[Berkley Lab], [NSLS-II],	[Bioenergetics Artificial Photosyntesis, From Vivian], 
+   [Karyn Rogers],	[RPI],	[NSLS-II],	[Geomicrobiology, Astrobiology, Geochemistry, From Vivian, ],
+   [Alexis R. Abramson], [Dartmouth], [NSLS-II], [Building energy efficiency; data analytics applied to energy applications; nanoscale energy transport; thermal, electrical and thermoelectric properties of nanostructures, nanocomposites and biological materials; etc Vivan],
+ [Surita Bhatia], [SBU], [NSLS-II], [structure and rheology of soft materials and complex fluids, including colloidal dispersions and polymeric hydrogels. Vivan],
 
    split,
    [Xu Du], [SBU], [CFN], [novel materials. Fernando suggestion],
