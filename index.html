@@ -2,48 +2,73 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>EPSD Colloquium Agenda</title>
+  <title>EPSD Colloquium Planning</title>
   <style>
     body { font-family: system-ui, sans-serif; padding: 2rem; }
-    #viewer { display:none; width:100%; height:90vh; border:1px solid #ddd; }
+    .viewer { display:none; width:100%; height:90vh; border:1px solid #ddd; }
+    .login { margin-bottom: 1rem; }
   </style>
 </head>
 <body>
-  <h1>Agenda</h1>
-  <div id="login">
-    <p>Enter the password to view the PDF.<br>
-      <em>Hint: our directorate acronym.</emem></p>
-    <input id="pw" type="password" placeholder="Password" />
-    <button id="ok">Open</button>
-    <p id="msg" style="color:crimson"></p>
-  </div>
+  <h1>EPSD Colloquium Planning</h1>
 
-  <!-- The PDF: place document.pdf in same repo -->
-  <iframe id="viewer" src="agenda.pdf" width="100%" height="800"></iframe>
+  <h2>Overall plan</h2>
+  <section class="pdf-section">
+    <div class="login">
+      <p>Enter the password to view the PDF.<br>
+        <em>Hint: our directorate acronym.</em></p>
+      <input class="pw" type="password" placeholder="Password" />
+      <button class="ok">Open</button>
+      <p class="msg" style="color:crimson"></p>
+    </div>
+    <iframe class="viewer" src="overall_plan.pdf"></iframe>
+  </section>
+
+  <h2>Jim Hone agenda</h2>
+  <section class="pdf-section">
+    <div class="login">
+      <p>Enter the password to view the PDF.<br>
+        <em>Hint: our directorate acronym.</em></p>
+      <input class="pw" type="password" placeholder="Password" />
+      <button class="ok">Open</button>
+      <p class="msg" style="color:crimson"></p>
+    </div>
+    <iframe class="viewer" src="Hone_agenda.pdf"></iframe>
+  </section>
 
   <script>
-  // SHA-256 hash of password 
-  const allowedHash = "60d41c37cf3e1add2f90c27bd5ef60c6c1aa3edd207b841a2caaf3532e853fd0";
+    // SHA-256 hash of password
+    const allowedHash =
+      "60d41c37cf3e1add2f90c27bd5ef60c6c1aa3edd207b841a2caaf3532e853fd0";
 
-  async function sha256hex(str) {
-    const bytes = new TextEncoder().encode(str);
-    const hashBuffer = await crypto.subtle.digest('SHA-256', bytes);
-    const hashArray = Array.from(new Uint8Array(hashBuffer));
-    return hashArray.map(b => b.toString(16).padStart(2,'0')).join('');
-  }
-
-  document.getElementById('ok').onclick = async () => {
-    const pw = document.getElementById('pw').value || "";
-    const h = await sha256hex(pw);
-    if (h === allowedHash) {
-      document.getElementById('login').style.display = 'none';
-      document.getElementById('viewer').style.display = 'block';
-    } else {
-      document.getElementById('msg').textContent = "Incorrect password";
+    async function sha256hex(str) {
+      const bytes = new TextEncoder().encode(str);
+      const hashBuffer = await crypto.subtle.digest("SHA-256", bytes);
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      return hashArray.map(b => b.toString(16).padStart(2, "0")).join("");
     }
-  }
+
+    // Attach behavior to each section independently
+    document.querySelectorAll(".pdf-section").forEach(section => {
+      const btn = section.querySelector(".ok");
+      const pwInput = section.querySelector(".pw");
+      const msg = section.querySelector(".msg");
+      const login = section.querySelector(".login");
+      const viewer = section.querySelector(".viewer");
+
+      btn.addEventListener("click", async () => {
+        msg.textContent = "";
+        const pw = pwInput.value || "";
+        const h = await sha256hex(pw);
+
+        if (h === allowedHash) {
+          login.style.display = "none";
+          viewer.style.display = "block";
+        } else {
+          msg.textContent = "Incorrect password";
+        }
+      });
+    });
   </script>
 </body>
 </html>
-
-

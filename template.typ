@@ -2,9 +2,11 @@
 ) = {
   // Set and show rules from before.
 set document(title: "EPSD colloquium")
+set page("us-letter")
 show title: set align(center)
 set text(size: 10pt)
 show link: underline
+
 
 show "Surita Bhatia": link("https://www.stonybrook.edu/commcms/chemistry/people/faculty_profiles/bhatia-surita.php#RESEARCHINTERESTS")[Surita Bhatia]
 
