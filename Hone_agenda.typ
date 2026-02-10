@@ -5,7 +5,7 @@
 
 #title()
 
-Suji Park, Kevin Yager, Chuck Black?
+Suji Park, Suji Park, Chuck Black?
 
 #show heading.where(level: 1): set text(size: 12pt, weight: "bold")
 

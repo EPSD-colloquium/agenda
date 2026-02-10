@@ -13,14 +13,17 @@ Names link to people's homepages.
   table.header[Date][Speaker][Institution][For][Title],
    [02/18/2026], [Jim Hone], [Columbia\ University], [CFN], [Advances in Synthesis and Quantum Applications of 2D Materials],
   
-   [#strike[04/01/2026]], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [Cancelled. Looking to swap with Pasupathy. The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
+ 
+     [04/08/2026], [Thomas Allison], [SBU], [Chemistry], [Offered],
+  
   
    [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed.],
   
-   [06/03/2026], [Abhay Pasupathy], [Columbia\ University], [PM], [Confirmed, but looking at swapping with Senanayake],
+   [06/03/2026], [Abhay Pasupathy], [Columbia\ University], [PM], [Confirmed can't change],
 
    [07/01/2026], [Niaomi Ginzberg], [], [NSLS2], [invited. Debating date. N.B. might need another host. E.g. Andrei Flueascu],
 
+[08/05/2026], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [Originally April. Date requested but not confirmed. The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
 
    [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Invited near confirmed],
 )
