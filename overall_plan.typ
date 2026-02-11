@@ -14,7 +14,7 @@ Names link to people's homepages.
    [02/18/2026], [Jim Hone], [Columbia\ University], [CFN], [Advances in Synthesis and Quantum Applications of 2D Materials],
   
  
-     [04/08/2026], [Thomas Allison], [SBU], [Chemistry], [Offered],
+     [04/08/2026], [Thomas Allison], [SBU], [Chemistry], [Date confirmed],
   
   
    [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed.],
@@ -87,13 +87,29 @@ Names link to people's homepages.
 
 // Bellport; La Plage; Four Seasons; Old Fields
 
-#table(columns: (auto, auto, auto, auto, auto, auto),
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
       stroke: (x, y) => {
       if y == 0 {(top: 0.08em, bottom: 0.05em)}
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
-  table.header[Site Acess][Abstract email][Events bnl.gov][Poster][Dinner][Agenda],
+  table.header[Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
               [],       [#c],             [#c],             [#c],     [Maybe La Plage Bellport],
+) 
+
+
+= Tom Allison
+
+#let c = sym.checkmark
+
+// Bellport; La Plage; Four Seasons; Old Fields
+
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+      stroke: (x, y) => {
+      if y == 0 {(top: 0.08em, bottom: 0.05em)}
+      else if y > 1 { (top: 0em, bottom: 0.08em) }
+    },
+  table.header[Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+              [],       [],             [],             [],     [?],
 ) 
 
 
