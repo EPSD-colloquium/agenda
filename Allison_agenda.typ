@@ -1,11 +1,11 @@
-#set document(title: [Visit by Jim Hone, Columbia University, Feb 18#super[th] 2026])
+#set document(title: [Visit by Tom Allison, Stony Brook University, April 8#super[th] 2026])
 #set page("us-letter")
 #show title: set align(center)
 #show title: set text(size: 16pt)
 
 #title()
 
-Will arrive in afternoon
+Will arrive in afternoon starting at 1:30 pm.
 Albert Liu
 Filippo Glerean
 

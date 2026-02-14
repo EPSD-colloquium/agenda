@@ -17,7 +17,7 @@ Names link to people's homepages.
      [04/08/2026], [Thomas Allison], [SBU], [Chemistry], [Date confirmed],
   
   
-   [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed.],
+   [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed. Our room booking has now been cancelled. ],
   
    [06/03/2026], [Abhay Pasupathy], [Columbia\ University], [PM], [Confirmed can't change],
 
@@ -93,7 +93,7 @@ Names link to people's homepages.
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
   table.header[Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
-              [],       [#c],             [#c],             [#c],     [Maybe La Plage Bellport],
+              [#c],       [#c],             [#c],             [#c],     [Maybe La Plage Bellport],
 ) 
 
 
@@ -109,8 +109,12 @@ Names link to people's homepages.
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
   table.header[Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
-              [],       [],             [],             [],     [?],
+              [],       [],             [],             [],     [No],
 ) 
 
 
 = Sanjaya Senanayake
+
+= General notes
+
+Mark Needs to pay for lunch and dinner and submit receipts. We'll fund only the speaker. 
