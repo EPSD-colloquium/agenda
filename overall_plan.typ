@@ -23,7 +23,7 @@ Names link to people's homepages.
 
    [07/01/2026], [Niaomi Ginzberg], [], [NSLS2], [invited. Debating date. N.B. might need another host. E.g. Andrei Flueascu],
 
-[08/05/2026], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [Originally April. Date requested but not confirmed. The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
+[08/05/2026], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [ The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
 
    [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Invited near confirmed],
 )
