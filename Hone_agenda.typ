@@ -28,9 +28,12 @@ Uppon arrival the speaker will need to check in at the Science and User Support 
   table.header(
     [*Time*], [*Location*], [*People*], [*Email* (in case of problems)], [*Topic*]),
 
-[arrival - 10:15 am], [Office 211, Building 734], [Mark Dean], [#email("mdean@bnl.gov")], [Either arrival or meeting with Mark],
+[8:46 am], [Ronkonkoma], [Mark Dean], [#email("mdean@bnl.gov")], [Meeting and travel to BNL],
 
-[10:15 am - 11:00 am], [Office 185, Building 734], [Filippo Glerean], [#email("aliu1@bnl.gov")], [Optics lab],
+
+[arrival - 10:00 am], [Office 211, Building 734], [Mark Dean], [#email("mdean@bnl.gov")], [Either arrival or meeting with Mark],
+
+[10:00 am - 11:00 am], [Office 185, Building 734], [Filippo Glerean], [#email("aliu1@bnl.gov")], [Optics lab],
 
 [11:00 am - 12:00 pm], [Room 2028, Building 735], [Suji Park], [#email("spark@bnl.gov")], [QPress],
 
@@ -47,7 +50,7 @@ Uppon arrival the speaker will need to check in at the Science and User Support 
 
 [4:00 pm - 5:00 pm], [Building 510, Large Seminar Room], [Mark Dean], [#email("mdean@bnl.gov")], [Colloquium],
 
-[6:00 pm -], [La Plage, Bellport\ 14 Station Rd, Bellport, NY 11713], [TBD], [#email("mdean@bnl.gov")], [Dinner],
+[6:00 pm -], [La Plage, Bellport\ 14 Station Rd, Bellport, NY 11713], [Mark, Jim, Filippo], [#email("mdean@bnl.gov")], [Dinner],
 
 
 )
