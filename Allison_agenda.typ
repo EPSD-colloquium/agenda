@@ -21,7 +21,7 @@ Other options: Albert Liu or Mirca Cotlet.
   table.header(
     [*Time*], [*Location*], [*People*], [*Email* (in case of problems)], [*Topic*]),
 
-[2:00 pm - 2:40 pm], [Room 301 Chemistry Building], [José Rodriguez], [#email("rodrigez@bnl.gov")], [Ultrafast research in chemistry],
+[2:00 pm - 2:40 pm], [Room 301 Chemistry Building], [José Rodriguez], [#email("rodrigez@bnl.gov")], [Ul trafast research in chemistry],
 
 [2:40 pm - 3:20 pm], [TBD], [TBD], [#email("rodrigez@bnl.gov")], [ULtrafast research at ],
 
