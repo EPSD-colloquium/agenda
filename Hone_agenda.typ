@@ -39,7 +39,7 @@ Uppon arrival the speaker will need to check in at the Science and User Support 
 
 [12:00 pm - 1:00 pm], [Meet outside 734 and walk to Berkner Hall], [Open to all], [#email("mdean@bnl.gov")], [Lunch],
 
-[1:00 pm - 2:00 pm], [Building 734, Office B06], [Kazu Fujita], [#email("kfujita@bnl.gov")], [STM],
+[1:00 pm - 2:00 pm], [Meet in building 734 lobby], [Kazu Fujita], [#email("kfujita@bnl.gov")], [STM],
 
 [2:00 pm - 3:00 pm], [Building 734, Office 186], [Mingzhao Liu], [#email("mzliu@bnl.gov")], [Quantum research at CFN],
 
@@ -50,7 +50,7 @@ Uppon arrival the speaker will need to check in at the Science and User Support 
 
 [4:00 pm - 5:00 pm], [Building 510, Large Seminar Room], [Mark Dean], [#email("mdean@bnl.gov")], [Colloquium],
 
-[6:00 pm -], [La Plage, Bellport\ 14 Station Rd, Bellport, NY 11713], [Mark, Jim, Filippo], [#email("mdean@bnl.gov")], [Dinner],
+[6:00 pm -], [La Plage, Bellport\ 14 Station Rd, Bellport, NY 11713], [Mark, Jim, Filippo, Vivian], [#email("mdean@bnl.gov")], [Dinner],
 
 
 )

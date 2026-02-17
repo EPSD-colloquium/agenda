@@ -5,9 +5,9 @@
 
 #title()
 
-Will arrive in afternoon starting at 2:00 pm.
+XPD/PDF user so Sanjit and or Michael Drakopoulos
+Esther Takeuchi or Amy Marschock
 
-Other options: Albert Liu or Mirca Cotlet. Or Xiaoqian Chen (Andrei F suggested)
 
 
 #show heading.where(level: 1): set text(size: 12pt, weight: "bold")

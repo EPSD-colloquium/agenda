@@ -26,6 +26,9 @@ Names link to people's homepages.
 [08/05/2026], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [ The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
 
    [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Invited near confirmed],
+
+      [october], [Esther ], [SBU&BNL], [IS], [Need to invite near confirmed],
+
 )
 
 #set table.hline(stroke: 0.6pt)
@@ -66,7 +69,7 @@ Names link to people's homepages.
 
 
    [Junko Yano],	[Berkley Lab], [NSLS-II],	[Bioenergetics Artificial Photosyntesis, From Vivian], 
-   [Karyn Rogers],	[RPI],	[NSLS-II],	[Geomicrobiology, Astrobiology, Geochemistry, From Vivian, ],
+   [Karyn Rogers],	[RPI],	[NSLS-II],	[(preferred by Vivan) Geomicrobiology, Astrobiology, Geochemistry, From Vivian, ],
    [Alexis R. Abramson], [Dartmouth], [NSLS-II], [Building energy efficiency; data analytics applied to energy applications; nanoscale energy transport; thermal, electrical and thermoelectric properties of nanostructures, nanocomposites and biological materials; etc Vivan],
  [Surita Bhatia], [SBU], [NSLS-II], [structure and rheology of soft materials and complex fluids, including colloidal dispersions and polymeric hydrogels. Vivan],
 
