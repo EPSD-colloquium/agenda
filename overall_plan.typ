@@ -14,10 +14,10 @@ Names link to people's homepages.
    [02/18/2026], [Jim Hone], [Columbia\ University], [CFN], [Advances in Synthesis and Quantum Applications of 2D Materials],
   
  
-     [04/08/2026], [Thomas Allison], [SBU], [Chemistry], [Date confirmed],
+    [04/08/2026], [Thomas Allison], [SBU], [Chemistry], [Date confirmed],
   
   
-   [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed. Our room booking has now been cancelled. ],
+  [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed. Hamilton . ],
   
    [06/03/2026], [Abhay Pasupathy], [Columbia\ University], [PM], [Confirmed can't change],
 
@@ -25,9 +25,11 @@ Names link to people's homepages.
 
 [08/05/2026], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [ The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
 
-   [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Invited near confirmed],
+   [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Confirmed],
 
-      [october], [Esther ], [SBU&BNL], [IS], [Need to invite near confirmed],
+   [chose],  [Esther Takeuchi], [SBU&BNL], [IS], [Need to invite make other invites first],
+
+      [Karyn Rogers], [Rochester Institute of Technology], [invite sent],
 
 )
 
