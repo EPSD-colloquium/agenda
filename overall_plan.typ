@@ -117,7 +117,7 @@ Location is Physics Large Seminar Room unless otherwise noted.
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
   table.header[Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
-              [],       [],             [],             [],     [No],
+              [to do gate pass],       [],             [],             [],     [No],
 ) 
 
 
