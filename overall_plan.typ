@@ -5,6 +5,9 @@
 
 = Agenda
 Names link to people's homepages.
+
+Location is Physics Large Seminar Room unless otherwise noted.
+
 #table(columns: (auto, auto, auto, auto, 1fr),
       stroke: (x, y) => {
       if y == 0 {(top: 0.08em, bottom: 0.05em)}
@@ -17,7 +20,7 @@ Names link to people's homepages.
     [04/08/2026], [Thomas Allison], [SBU], [Chemistry], [Date confirmed],
   
   
-  [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed. Hamilton . ],
+  [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed. #text(fill: red)[Location changed to Hamilton ]],
   
    [06/03/2026], [Abhay Pasupathy], [Columbia\ University], [PM], [Confirmed can't change],
 
