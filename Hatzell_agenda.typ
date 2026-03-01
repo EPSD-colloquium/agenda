@@ -1,14 +1,12 @@
-#set document(title: [Visit by Tom Allison, Stony Brook University, April 8#super[th] 2026])
+#set document(title: [Visit by Kelsey Hatzell Princetron University, May 6#super[th] 2026])
 #set page("us-letter")
 #show title: set align(center)
 #show title: set text(size: 16pt)
 
 #title()
 
-XPD/PDF user so Sanjit and or Michael Drakopoulos
-Esther Takeuchi or Amy Marschock
 
-
+should meet Michael Drakopoulos & Danjit Ghose
 
 #show heading.where(level: 1): set text(size: 12pt, weight: "bold")
 
@@ -21,18 +19,8 @@ Esther Takeuchi or Amy Marschock
   table.header(
     [*Time*], [*Location*], [*People*], [*Email* (in case of problems)], [*Topic*]),
 
-[2:00 pm - 2:40 pm], [Room 301 Chemistry Building], [José Rodriguez], [#email("rodrigez@bnl.gov")], [Ul trafast research in chemistry],
+[ ], [ ], [], [#email("name@bnl.gov")], [],
 
-[2:40 pm - 3:20 pm], [TBD], [TBD], [#email("rodrigez@bnl.gov")], [ULtrafast research at ],
-
-
-[3:20 pm - 3:30 pm], [Talk prep], [Mark Dean], [#email("mdean@bnl.gov")], [Building 510 large seminar room],
-
-[3:30 pm - 4:00 pm], [Building 510, coffee area ], [Mark Dean], [#email("mdean@bnl.gov")], [Coffee],
-
-[4:00 pm - 5:00 pm], [Building 510, Large Seminar Room], [Mark Dean], [#email("mdean@bnl.gov")], [Colloquium],
-
-[5:00 pm - 5:40 pm], [TBD], [TBD], [#email("mdean@bnl.gov")], [Colloquium],
 
 
 )

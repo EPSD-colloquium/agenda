@@ -107,10 +107,6 @@ Location is Physics Large Seminar Room unless otherwise noted.
 
 = Tom Allison
 
-#let c = sym.checkmark
-
-// Bellport; La Plage; Four Seasons; Old Fields
-
 #table(columns: (auto, auto, auto, auto, auto, auto, auto),
       stroke: (x, y) => {
       if y == 0 {(top: 0.08em, bottom: 0.05em)}
@@ -120,6 +116,16 @@ Location is Physics Large Seminar Room unless otherwise noted.
               [to do gate pass],       [],             [],             [],     [No],
 ) 
 
+= Kelsey Hatzell
+
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+      stroke: (x, y) => {
+      if y == 0 {(top: 0.08em, bottom: 0.05em)}
+      else if y > 1 { (top: 0em, bottom: 0.08em) }
+    },
+  table.header[Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+              [],       [],             [],             [],     [],
+) 
 
 = Sanjaya Senanayake
 
