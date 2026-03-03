@@ -26,7 +26,7 @@ Location is Physics Large Seminar Room unless otherwise noted.
 
    [07/01/2026], [Niaomi Ginzberg], [], [NSLS2], [invited. Debating date. N.B. might need another host. E.g. Andrei Flueascu],
 
-[08/05/2026], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [ The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
+[08/05/2026?], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [ The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.) #text(fill:red)[Andrei might swap with Niaomi.]],
 
    [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Confirmed],
 
