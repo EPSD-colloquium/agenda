@@ -22,11 +22,11 @@ Location is Physics Large Seminar Room unless otherwise noted.
   
   [05/06/2026], [Kelsey Hatzell], [Princeton\ University], [IS], [Date confirmed. #text(fill: red)[Location changed to Hamilton ]],
   
-   [06/03/2026], [Abhay Pasupathy], [Columbia\ University], [PM], [Confirmed can't change],
+   [06/10/2026], [Niaomi Ginzberg], [], [NSLS2], [Confirmed],
 
-   [07/01/2026], [Niaomi Ginzberg], [], [NSLS2], [invited. Debating date. N.B. might need another host. E.g. Andrei Flueascu],
+   [07/08/2026], [Abhay Pasupathy], [Columbia\ University], [PM], [Reconfirmed for new date],
 
-[08/05/2026?], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [ The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.) #text(fill:red)[Andrei might swap with Niaomi.]],
+[08/05/2026?], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [ The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
 
    [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Confirmed],
 
@@ -61,7 +61,7 @@ Location is Physics Large Seminar Room unless otherwise noted.
    [Dan Steingart], [Columbia University], [IS], [],
    split,
    [Karen Chen-Wiegart], [BNL/SBU], [NSLS-II], [],
-   [Valentina Bisogni], [BNL/SBU], [NSLS-II], [],
+   [Valentina Bisogni], [BNL], [NSLS-II], [],
 
    [Leora Dresselhaus-Marais], [Stanford University], [NSLS-II], [Andrei F recommends. Did she already give a talk?],
    [Linda Young], [Argonne Lab], [NSLS-II], [Attosecond, Mark suggestion],
@@ -107,13 +107,13 @@ Location is Physics Large Seminar Room unless otherwise noted.
 
 = Tom Allison
 
-#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+#table(columns: (auto, auto, auto, auto, auto, auto, auto, auto),
       stroke: (x, y) => {
       if y == 0 {(top: 0.08em, bottom: 0.05em)}
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
-  table.header[Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
-              [to do gate pass],       [],             [],             [],     [No],
+  table.header[Intro][Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+      [Ask J.M.],        [to do gate pass],       [],             [],             [],     [No],
 ) 
 
 = Kelsey Hatzell
