@@ -7,7 +7,9 @@
 
 Will arrive in afternoon starting at 2:00 pm.
 
-Other options: Albert Liu or Mirca Cotlet. Or Xiaoqian Chen (Andrei F suggested)
+Albert Liu wants to meet him.
+
+Other options: or Mirca Cotlet. Or Xiaoqian Chen (Andrei F suggested)
 
 
 #show heading.where(level: 1): set text(size: 12pt, weight: "bold")
