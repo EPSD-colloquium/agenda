@@ -113,7 +113,7 @@ Location is Physics Large Seminar Room unless otherwise noted.
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
   table.header[Intro][Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
-      [Ask J.M.],        [to do gate pass],       [],             [],             [],     [No],
+      [José Rodriguez confirmed],  [to do gate pass],  [#c],  [#c],  [#c],   [skip],  [],   [],
 ) 
 
 = Kelsey Hatzell
