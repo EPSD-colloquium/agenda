@@ -5,7 +5,12 @@
 
 #title()
 
-Will arrive in afternoon starting at 2:00 pm.
+= Contact
+Mark Dean\
+Email: mdean\@bnl.gov\
+Office: Building 734, Room 211\
+Office phone: 631 344 7847\
+Cell phone: 631 384 3240
 
 #show heading.where(level: 1): set text(size: 12pt, weight: "bold")
 
