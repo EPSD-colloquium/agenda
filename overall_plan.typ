@@ -8,6 +8,9 @@ Names link to people's homepages.
 
 Location is Physics Large Seminar Room unless otherwise noted.
 
+We target the second Wednesday of the month, trying to avoid the first Wednesday of the month, which is the CFN and colloquium. 
+
+
 #table(columns: (auto, auto, auto, auto, 1fr),
       stroke: (x, y) => {
       if y == 0 {(top: 0.08em, bottom: 0.05em)}
