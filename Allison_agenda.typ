@@ -23,7 +23,7 @@ Cell phone: 631 384 3240
   table.header(
     [*Time*], [*Location*], [*People*], [*Email* (in case of problems)], [*Topic*]),
 
-[2:00 pm - 2:40 pm], [Room 301 Chemistry Building], [José Rodriguez], [#email("rodrigez@bnl.gov")], [Ultrafast research in chemistry],
+[2:00 pm - 2:40 pm], [Lobby of Chemistry Building 555], [José Rodriguez], [#email("rodrigez@bnl.gov")], [Ultrafast research in chemistry],
 
 [2:40 pm - 3:20 pm], [Office 186 Bldg. 734], [Albert Liu], [#email("aliu1@bnl.gov")], [Ultrafast research \@ BNL],
 
