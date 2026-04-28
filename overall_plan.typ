@@ -127,8 +127,9 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
   table.header[Site Acess][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
-              [],       [],             [],             [],     [],
+              [#c],       [#c],             [#c],             [#c],     [to do], [to do], [#c]
 ) 
+Vivan will do dinner and agenda.
 
 = Sanjaya Senanayake
 
