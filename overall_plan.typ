@@ -33,11 +33,11 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
    [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Confirmed],
 
-   [chose],  [Kevin Yager], [BNL], [CFN], [Waiting to hear from Karyn Rogers],
+//   [chose],  [Kevin Yager], [BNL], [CFN], [Waiting to hear from Karyn Rogers],
 
-   [chose],  [Esther Takeuchi], [SBU&BNL], [IS], [Need to invite make other invites first],
+//   [chose],  [Esther Takeuchi], [SBU&BNL], [IS], [Need to invite make other invites first],
 
-  [Karyn Rogers], [Rochester Institute of Technology], [invite sent -- vivian will chase up],
+ // [Karyn Rogers], [Rochester Institute of Technology], [invite sent -- vivian will chase up],
 
 )
 
