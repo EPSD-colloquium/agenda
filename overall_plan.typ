@@ -31,7 +31,10 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [08/05/2026?], [Sanjaya Senanayake], [Chemistry], [Chemistry  \ & partly NSLS-II], [ The Quest for Abiotic Methanotrophs in Complex Microenvironments (I have asked him to produce something less techincal.)],
 
-   [9/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Confirmed],
+   [10/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Confirmed],
+
+[10/07/2026], [Kevin Yager], [BNL], [CFN], [invited],
+
 
 //   [chose],  [Kevin Yager], [BNL], [CFN], [Waiting to hear from Karyn Rogers],
 
@@ -143,6 +146,19 @@ Vivan will do dinner and agenda.
               [],       [],             [],             [],     [to do], [], []
 ) 
 Andrei will do dinner and agenda.
+
+= Abhay Pasupathy
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+      stroke: (x, y) => {
+      if y == 0 {(top: 0.08em, bottom: 0.05em)}
+      else if y > 1 { (top: 0em, bottom: 0.08em) }
+    },
+  table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+              [#c],       [#c],             [#c],             [#c],     [skip], [?], []
+) 
+Andrei will do dinner and agenda.
+
+
 
 
 = Sanjaya Senanayake
