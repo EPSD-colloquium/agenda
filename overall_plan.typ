@@ -33,7 +33,7 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
    [10/23/2026], [Nathalie P de Leon], [Princeton\ University], [C2QA], [Confirmed],
 
-[10/07/2026], [Kevin Yager], [BNL], [CFN], [invited],
+[10/07/2026], [Kevin Yager], [BNL], [CFN], [Confirmed],
 
 
 //   [chose],  [Kevin Yager], [BNL], [CFN], [Waiting to hear from Karyn Rogers],
