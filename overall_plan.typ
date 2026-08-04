@@ -155,13 +155,31 @@ Andrei will do dinner and agenda.
     },
   table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
               [#c],       [#c],             [#c],             [#c],     [skip], [?], []
-) 
-Andrei will do dinner and agenda.
-
-
-
+)
 
 = Sanjaya Senanayake
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+      stroke: (x, y) => {
+      if y == 0 {(top: 0.08em, bottom: 0.05em)}
+      else if y > 1 { (top: 0em, bottom: 0.08em) }
+    },
+  table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+              [#c],       [#c],             [#c],             [#c],     [skip], [?], [#c]
+)
+
+= Nathalie de Leon
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+      stroke: (x, y) => {
+      if y == 0 {(top: 0.08em, bottom: 0.05em)}
+      else if y > 1 { (top: 0em, bottom: 0.08em) }
+    },
+  table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+              [],       [],             [],             [],     [], [], []
+)
+
+
+Andrei will do dinner and agenda.
+
 
 = General notes
 
