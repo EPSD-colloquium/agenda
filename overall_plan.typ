@@ -36,7 +36,7 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 [10/14/2026], [Kevin Yager], [BNL], [CFN], [Confirmed],
 
 
-[11/?/2026], [Matteo Mitrano], [Harvard], [CMPMSD&NSLS2], [invite],
+[2/12 2027], [Matteo Mitrano], [Harvard], [CMPMSD&NSLS2], [invite],
 
 
 //   [chose],  [Esther Takeuchi], [SBU&BNL], [IS], [Need to invite make other invites first],
