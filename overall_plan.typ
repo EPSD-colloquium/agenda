@@ -6,7 +6,7 @@
 = Agenda
 Names link to people's homepages.
 
-Location is Physics Large Seminar Room unless otherwise noted.
+Location is Hamilton Seminar Room unless otherwise noted.
 
 We target the second Wednesday of the month, trying to avoid the first Wednesday of the month, which is the CFN and colloquium. 
 
@@ -35,11 +35,15 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [10/14/2026], [Kevin Yager], [BNL], [CFN], [Confirmed],
 
+[11/11/2026], [Ester Takeuchi], [BNL/SBU], [IS], [invited],
 
-[2/12 2027], [Matteo Mitrano], [Harvard], [CMPMSD&NSLS2], [invite],
+[12/2/2026], [Alexander Gaeta], [Columbia], [PM], [invited],
+
+[1/13/2027], [Junko Jano], [LBNL], [NSLS2], [invited],
+
+[2/12 2027], [Matteo Mitrano], [Harvard], [CMPMSD&NSLS2], [Confirmed],
 
 
-//   [chose],  [Esther Takeuchi], [SBU&BNL], [IS], [Need to invite make other invites first],
 
  // [Karyn Rogers], [Rochester Institute of Technology], [invite sent -- vivian will chase up],
 
@@ -96,6 +100,12 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
    [Thomas Allison], [SBU], [Chemistry], [Kim Mohanty suggestion],
    split,
    [Steve Girvin], [Yale], [C2QA], [Misewich],
+
+   [Michele Simoncelli], [Columbia], [?], [Fernando. Already invited by Claudio],
+   [Andrea Alù], [], [], [],
+   [Junko Yano], [Berkeley], [], [Artifical Photosyntesis (citizen)],
+   [Ashfia Huq], [LBNL], [?], [Fernando],
+   [Arthur Sedlacek], [BNL], [?], [Fernando Clouds guys]
 )
 
 = Jim Hone
@@ -175,7 +185,7 @@ Andrei will do dinner and agenda.
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
   table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
-              [],       [],             [],             [],     [Y need to book], [], []
+              [#c],       [#c],             [#c],             [#c],     [#c], [#c], [#c]
 )
 
 
@@ -186,9 +196,48 @@ Andrei will do dinner and agenda.
       else if y > 1 { (top: 0em, bottom: 0.08em) }
     },
   table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+              [#c],       [#c],             [#c],             [#c],     [skip], [skip], [#c]
+)
+
+= Esther Takeuchi
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+      stroke: (x, y) => {
+      if y == 0 {(top: 0.08em, bottom: 0.05em)}
+      else if y > 1 { (top: 0em, bottom: 0.08em) }
+    },
+  table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+              [],       [],             [],             [],     [skip], [skip], []
+)
+
+=  
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+      stroke: (x, y) => {
+      if y == 0 {(top: 0.08em, bottom: 0.05em)}
+      else if y > 1 { (top: 0em, bottom: 0.08em) }
+    },
+  table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
               [],       [],             [],             [],     [], [], []
 )
 
+= Alexander Gaeta
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+      stroke: (x, y) => {
+      if y == 0 {(top: 0.08em, bottom: 0.05em)}
+      else if y > 1 { (top: 0em, bottom: 0.08em) }
+    },
+  table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+              [],       [],             [],             [],     [], [], []
+)
+
+= Junko Yano 
+#table(columns: (auto, auto, auto, auto, auto, auto, auto),
+      stroke: (x, y) => {
+      if y == 0 {(top: 0.08em, bottom: 0.05em)}
+      else if y > 1 { (top: 0em, bottom: 0.08em) }
+    },
+  table.header[Site Access][Abstract emailed][Events bnl.gov][Poster][Dinner][Agenda][Coffee/Cookies],
+              [],       [],             [],             [],     [], [], []
+)
 
 = Matteo Mitrano 
 #table(columns: (auto, auto, auto, auto, auto, auto, auto),
@@ -200,8 +249,6 @@ Andrei will do dinner and agenda.
               [],       [],             [],             [],     [], [], []
 )
 
-
-Andrei will do dinner and agenda.
 
 
 = General notes
