@@ -35,9 +35,9 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [10/14/2026], [Kevin Yager], [BNL], [CFN], [Confirmed],
 
-[11/11/2026], [Ester Takeuchi], [BNL/SBU], [IS], [invited],
+[11/11/2026], [Ester Takeuchi], [BNL/SBU], [IS], [invited (cannot do 11/11) waiting to hear availability of others],
 
-[12/11/2026], [Alexander Gaeta], [Columbia], [PM], [invited],
+[12/11/2026], [Alexander Gaeta], [Columbia], [PM], [now invited for both 12/11 and 11/11],
 
 [1/13/2027], [Junko Jano], [LBNL], [NSLS2], [invited],
 
