@@ -37,7 +37,7 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [11/11/2026], [Ester Takeuchi], [BNL/SBU], [IS], [invited],
 
-[12/2/2026], [Alexander Gaeta], [Columbia], [PM], [invited],
+[12/11/2026], [Alexander Gaeta], [Columbia], [PM], [invited],
 
 [1/13/2027], [Junko Jano], [LBNL], [NSLS2], [invited],
 
