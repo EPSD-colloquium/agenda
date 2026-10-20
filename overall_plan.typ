@@ -35,14 +35,21 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [10/14/2026], [Kevin Yager], [BNL], [CFN], [Confirmed],
 
-[11/11/2026], [Ester Takeuchi], [BNL/SBU], [IS], [invited (cannot do 11/11) waiting to hear availability of others],
+[11/11/2026], [Jim Wishart], [BNL], [Chemistry], [Invited],
 
-[12/11/2026], [Alexander Gaeta], [Columbia], [PM], [now invited for both 12/11 and 11/11],
+[12/11/2026], [Alexander Gaeta], [Columbia], [PM], [Confirmed (nonstandard date)],
 
-[1/13/2027], [Junko Jano], [LBNL], [NSLS2], [invited],
+[1/13/2027], [Junko Jano], [LBNL], [NSLS2], [Confirmed],
 
-[2/12 2027], [Matteo Mitrano], [Harvard], [CMPMSD&NSLS2], [Confirmed],
+[2/10/2027], [Matteo Mitrano], [Harvard], [CMPMSD&NSLS2], [Confirmed],
 
+[3/10/2027], [Esther Takeuchi], [BNL], [IS], [Invited],
+
+
+// [James F. Wishart] --- firstly 
+// Then Karen 
+// David Muller recommended by Chuck and Kim 
+ 
 
 
  // [Karyn Rogers], [Rochester Institute of Technology], [invite sent -- vivian will chase up],
