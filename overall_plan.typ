@@ -39,7 +39,7 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [12/11/2026], [Alexander Gaeta], [Columbia], [PM], [Confirmed (nonstandard date)],
 
-[1/13/2027], [Junko Jano], [LBNL], [NSLS2], [Confirmed],
+[1/20/2027], [Junko Jano], [LBNL], [NSLS2], [Confirmed],
 
 [2/10/2027], [Matteo Mitrano], [Harvard], [CMPMSD&NSLS2], [Confirmed],
 
