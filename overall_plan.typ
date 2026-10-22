@@ -35,11 +35,11 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [10/14/2026], [Kevin Yager], [BNL], [CFN], [Confirmed],
 
-[11/11/2026], [Jim Wishart], [BNL], [Chemistry], [Invited],
+[11/20/2026], [Jim Wishart], [BNL], [Chemistry], [Moved date due to lab holiday, as yet unconfirmed],
 
 [12/11/2026], [Alexander Gaeta], [Columbia], [PM], [Confirmed (nonstandard date)],
 
-[1/20/2027], [Junko Jano], [LBNL], [NSLS2], [Confirmed],
+[1/20/2027], [Junko Yano], [LBNL], [NSLS2], [Confirmed],
 
 [2/10/2027], [Matteo Mitrano], [Harvard], [CMPMSD&NSLS2], [Confirmed],
 
