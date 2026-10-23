@@ -35,7 +35,7 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [10/14/2026], [Kevin Yager], [BNL], [CFN], [Confirmed],
 
-[11/20/2026], [Jim Wishart], [BNL], [Chemistry], [Moved date due to lab holiday, as yet unconfirmed],
+[11/10/2026], [Jim Wishart], [BNL], [Chemistry], [Moved date due to lab holiday, as yet unconfirmed],
 
 [12/11/2026], [Alexander Gaeta], [Columbia], [PM], [Confirmed (nonstandard date)],
 
