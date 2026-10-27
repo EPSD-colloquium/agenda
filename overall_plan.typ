@@ -35,7 +35,7 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [10/14/2026], [Kevin Yager], [BNL], [CFN], [Confirmed],
 
-[11/10/2026], [Jim Wishart], [BNL], [Chemistry], [Moved date due to lab holiday, as yet unconfirmed],
+[11/10/2026], [#strike[Jim Wishart]], [BNL], [Chemistry], [canceled],
 
 [12/11/2026], [Alexander Gaeta], [Columbia], [PM], [Confirmed (nonstandard date)],
 
@@ -44,6 +44,8 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 [2/10/2027], [Matteo Mitrano], [Harvard], [CMPMSD&NSLS2], [Confirmed],
 
 [3/10/2027], [Esther Takeuchi], [BNL], [IS], [Invited],
+
+[4/21/2027], [Jim Wishart], [BNL], [Chemistry], [offered],
 
 
 // [James F. Wishart] --- firstly 
