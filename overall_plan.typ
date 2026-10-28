@@ -37,7 +37,7 @@ We target the second Wednesday of the month, trying to avoid the first Wednesday
 
 [11/10/2026], [#strike[Jim Wishart]], [BNL], [Chemistry], [canceled],
 
-[12/11/2026], [Alexander Gaeta], [Columbia], [PM], [Confirmed (nonstandard date)],
+[12/11/2026], [Alexander Gaeta], [Columbia], [PM], [Confirmed (nonstandard date) requesting #text(fill: red)[Physics Seminar Room]],
 
 [1/20/2027], [Junko Yano], [LBNL], [NSLS2], [Confirmed],
 
